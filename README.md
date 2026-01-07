@@ -10,7 +10,7 @@ Welcome to the 7-Day  Observability Tutorial Series! This repository contains th
   - Introduction to Observability, Monitoring, Logging, and Tracing.
   - The difference between Monitoring and Observability.
   - Tools available for Monitoring and Observability.
-  - Comparison between monitoring and observing in Bare-Metal Servers vs. Kubernetes.
+  - Comparison between monitoring and observing in Bare-Metal Servers   vs. Kubernetes.
 - **Key Learning**:
   - Understand the fundamental concepts of observability.
   - Learn why monitoring and observability are crucial in modern IT environments.
